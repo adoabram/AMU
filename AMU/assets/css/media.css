@@ -1,0 +1,209 @@
+/* tablet */
+@media screen and (min-width: 1024px) and (max-width: 1240px)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* mobile */
+@media screen and (max-width: 768px) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad in portrait & landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad in landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad in portrait */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* Retina iPad in portrait & landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 2) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* Retina iPad in landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape)
+and (-webkit-min-device-pixel-ratio: 2) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* Retina iPad in portrait */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 2) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad 1 & 2 in portrait & landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1){
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad 1 & 2 in landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 1)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad 1 & 2 in portrait */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad mini in portrait & landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad mini in landscape */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 1)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPad mini in portrait */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1)  {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 5 in portrait & landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 5 in landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 5 in portrait */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : portrait) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 2G-4S in portrait & landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 2G-4S in landscape */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : landscape) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
+
+/* iPhone 2G-4S in portrait */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) and (orientation : portrait) {
+	#particle-canvas{
+		display:none;
+	}
+	#canvas{
+    display:none;
+}
+}
